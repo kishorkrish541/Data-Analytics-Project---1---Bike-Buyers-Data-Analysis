@@ -27,11 +27,6 @@ Even Though It’s Simple, It Gave Me Hands-On Experience With **Data Cleaning, 
 
 ---
 
-## 📊 Final Dashboard  
-👉 Watch The Full Project Walkthrough Here: [YouTube Video](https://youtu.be/opJgMj1IUrc?feature=shared)  
-
----
-
 ## 📚 Learnings  
 - Basics Of **Data Cleaning And Transformation**  
 - Using **Excel Formulas (IF, Nested IF)** For Analysis  
